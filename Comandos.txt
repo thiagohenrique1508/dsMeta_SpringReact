@@ -1,0 +1,25 @@
+Parei com 33:04 minutos.
+Tem uma pausa nesse ponto.
+
+
+
+Instalar o Vite para auxiliar na criação de projetos ReactJS + Typescript.
+npm install --global vite
+
+
+yarn : instala os pacotes de dependências.
+
+
+
+Comando para criar o projeto dentro da pasta dsmeta.
+yarn create vite frontend --template react-ts
+
+
+
+Comando para executar o projeto na porta 3000.
+yarn dev 
+
+
+
+Utilizar o Spring Initializr
+para gerar o projeto backend.
